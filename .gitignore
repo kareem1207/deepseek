@@ -1,0 +1,14 @@
+node_modules
+.vscode
+test
+deepseek-0.0.1.vsix
+.vscode/**
+.vscode-test/**
+test/**
+.gitignore
+.yarnrc
+vsc-extension-quickstart.md
+**/jsconfig.json
+**/*.map
+**/eslint.config.mjs
+**/.vscode-test.*
