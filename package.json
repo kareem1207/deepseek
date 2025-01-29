@@ -3,10 +3,10 @@
   "displayName": "DeepSeek Chat",
   "description": "Chat with DeepSeek AI model in VS Code",
   "version": "0.0.1",
-  "publisher": "YourPublisherName",
+  "publisher": "kareem1207",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/deepseek.git"
+    "url": "https://github.com/kareem1207/deepseek/"
   },
   "engines": {
     "vscode": "^1.96.0"
